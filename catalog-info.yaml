@@ -2,10 +2,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: TestDev13
+  name: Datadog
   annotations:
-    github.com/project-slug: Priyatamvemulapalli/TestDev13
-    jira/project-key: LOAN
+    github.com/project-slug: Priyatamvemulapalli/DATADOG
     datadoghq.com/site: https://us5.datadoghq.com
     
     
