@@ -5,7 +5,7 @@ metadata:
   name: Datadog
   annotations:
     github.com/project-slug: Priyatamvemulapalli/DATADOG
-    datadoghq.com/site: https://us5.datadoghq.com
+    datadoghq.com/site: datadoghq.com
     
     
 spec:
