@@ -1,0 +1,15 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TestDev13
+  annotations:
+    github.com/project-slug: Priyatamvemulapalli/TestDev13
+    jira/project-key: LOAN
+    datadoghq.com/site: https://us5.datadoghq.com
+    
+    
+spec:
+  type: other
+  lifecycle: unknown
+  owner: users
