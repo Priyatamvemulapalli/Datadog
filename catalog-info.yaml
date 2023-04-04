@@ -6,8 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: Priyatamvemulapalli/DATADOG
     datadoghq.com/dashboard-url: https://p.us5.datadoghq.com/sb/c64d9ffa-d2c6-11ed-abbc-da7ad0900005-41d700be592bc51b58bbf6461dadc527
-    datadoghq.com/graph-token: <iframe src="https://us5.datadoghq.com/graph/embed?token=04e672994e76be2545731770731a23c2b127c58565d71bf6e00d5cbbe41a14cd&height=300&width=600&legend=true" width="600" height="300" frameborder="0"></iframe>
-    datadoghq.com/graph-token: value
+    datadoghq.com/graph-token: '<iframe src="https://us5.datadoghq.com/graph/embed?token=17edc3b7aab1cb142d598589c543f75a11d4818b82a9192147cefbc9e4154302&height=300&width=600&legend=true" width="600" height="300" frameborder="0"></iframe>'
 spec:
   type: other
   lifecycle: unknown
