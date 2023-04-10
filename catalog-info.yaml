@@ -5,8 +5,8 @@ metadata:
   name: Datadog
   annotations:
     github.com/project-slug: Priyatamvemulapalli/DATADOG
-    datadoghq.com/dashboard-url: https://p.us5.datadoghq.com/sb/c64d9ffa-d2c6-11ed-abbc-da7ad0900005-ed0846b14c074ab547a144e1c92cf21d
-    datadoghq.com/graph-token: b4217f39fdc6c38061d7cb4d70324ff591395e98dc9e476f02fb92bdb9d933d2
+    datadoghq.com/dashboard-url: https://p.datadoghq.eu/sb/d388a742-d374-11ed-86bc-da7ad0900005-63fd6cff125b0594279594356fd4524a
+    datadoghq.com/graph-token: a6a7d87797458a439f81b8323f665145ae7391d56786c3cfd105429f4fe23ca9
 spec:
   type: other
   lifecycle: unknown
