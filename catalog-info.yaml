@@ -8,7 +8,7 @@ metadata:
     jira/project-key: LOAN
     jenkins.io/job-full-name: "jtp"
     datadoghq.com/dashboard-url: https://p.datadoghq.eu/sb/d388a742-d374-11ed-86bc-da7ad0900005-63fd6cff125b0594279594356fd4524a
-    datadoghq.com/graph-token: a6a7d87797458a439f81b8323f665145ae7391d56786c3cfd105429f4fe23ca9
+    datadoghq.com/graph-token: 210b2ba14a5f9ec95b8a5540a3dc6c3ff2c12f4fe8efae484b1b6b1ef28d25c7
 spec:
   type: other
   lifecycle: unknown
