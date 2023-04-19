@@ -9,7 +9,6 @@ metadata:
     jenkins.io/job-full-name: "jtp"
     datadoghq.com/dashboard-url: https://p.datadoghq.eu/sb/d388a742-d374-11ed-86bc-da7ad0900005-63fd6cff125b0594279594356fd4524a
     datadoghq.com/graph-token: a6a7d87797458a439f81b8323f665145ae7391d56786c3cfd105429f4fe23ca9
-    datadoghq.com/graph-token: bc8ab5e52ad52672ef1bb4ce1ed8a235ce64374a80112adc9c09c31c96ceba63
 spec:
   type: other
   lifecycle: unknown
