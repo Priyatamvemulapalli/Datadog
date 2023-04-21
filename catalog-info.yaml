@@ -7,8 +7,8 @@ metadata:
     github.com/project-slug: Priyatamvemulapalli/DATADOG
     jira/project-key: LOAN
     jenkins.io/job-full-name: "jtp"
-    datadoghq.com/dashboard-url: https://p.datadoghq.eu/sb/d388a742-d374-11ed-86bc-da7ad0900005-63fd6cff125b0594279594356fd4524a
-    datadoghq.com/graph-token: 94a2e2da2db0e52dea9a4d7bf8699192b906644b7a4cbf6ecbce11f1d94e1b82
+    datadoghq.com/dashboard-url: https://p.datadoghq.eu/sb/096c926a-e022-11ed-8075-da7ad0900005-50179886a70c4fefeefbd4a2405b5f3a
+    datadoghq.com/graph-token: 340efe47b3d39e8b2dc8e95e153352747c4ee046b309bbd4b1d6c16b88bcc137
 spec:
   type: service
   lifecycle: experimental
