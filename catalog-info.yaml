@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: Priyatamvemulapalli/DATADOG
     jira/project-key: LOAN
+    jira/component: Bug
     datadoghq.com/dashboard-url: https://p.datadoghq.eu/sb/096c926a-e022-11ed-8075-da7ad0900005-50179886a70c4fefeefbd4a2405b5f3a
     datadoghq.com/graph-token: 340efe47b3d39e8b2dc8e95e153352747c4ee046b309bbd4b1d6c16b88bcc137
 spec:
